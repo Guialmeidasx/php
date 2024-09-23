@@ -21,4 +21,7 @@ elseif($media>=4){
 else {
     echo "O aluno $nome, está reprovado!";
 }
+
+
+
 ?>
